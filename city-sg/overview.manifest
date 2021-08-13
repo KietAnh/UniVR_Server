@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1829533073
+CRC: 3920825319
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4d25738dcc76dbe194650b722ca87da2
+    Hash: 450b936fa3a9cb2fd715a6af44e15a9b
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 3b82a29fdbbd956ea382c8baabc51792
+    Hash: 62ded0b477871b786c120d8c4dfda168
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -23,6 +23,8 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 81
   Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
 - Class: 104
   Script: {instanceID: 0}
 - Class: 108
@@ -33,5 +35,5 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Scenes/CitySG.unity
+- Assets/Scenes/Project CitySG_Demo_01.unity
 Dependencies: []
