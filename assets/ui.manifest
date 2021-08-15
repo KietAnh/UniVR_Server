@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3212037309
+CRC: 1541971672
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2683b8cef79112ce15a319359ed6969b
+    Hash: bea93412f614ba98515887d3f49ec168
   TypeTreeHash:
     serializedVersion: 2
-    Hash: eb2bae91a85bb5eb5b53a774fa254070
+    Hash: e44ef2f6f1f228d44b180c5dcb6d559f
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -24,7 +24,7 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 3d125f056b4ac9b448f693848c9e85df, type: 3}
+  Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
 - Class: 114
@@ -39,6 +39,10 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 0d0b652f32a2cc243917e4028fa0f046, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 1aa08ab6e0800fa44ae55d278d1423e3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8550ebd965efd7748a915819fed76e80, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 505bbe53cada6cb4c80d34ed11ed0d76, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128
@@ -51,6 +55,7 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
+- Assets/Prefabs/Popup.prefab
 - Assets/Prefabs/HouseButton.prefab
 - Assets/Prefabs/ProjectButton.prefab
 - Assets/Prefabs/LoadingBar.prefab
