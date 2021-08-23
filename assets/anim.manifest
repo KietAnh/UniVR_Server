@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 224021079
+CRC: 2865820403
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0f2b418405bf89a94dfe7095868a19db
+    Hash: 68164eed07f47eb0a81f5e27a6330ae4
   TypeTreeHash:
     serializedVersion: 2
     Hash: 0d58e3b8e52412e9b00f78f029c14810
@@ -31,6 +31,6 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Prefabs/Animate/TransitionEnd.prefab
-- Assets/Prefabs/Animate/TransitionStart.prefab
+- Assets/Prefabs/Animation/TransitionEnd.prefab
+- Assets/Prefabs/Animation/TransitionStart.prefab
 Dependencies: []
