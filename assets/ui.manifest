@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3805399282
+CRC: 3664294606
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 418191c9f61390bd14ef3efb61541cd2
+    Hash: 76fde9b4bd127fb342ba29615cb7a78f
   TypeTreeHash:
     serializedVersion: 2
     Hash: fc4cd13889d67e67482c8497ea39dcf3
@@ -59,9 +59,9 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Prefabs/Popup.prefab
-- Assets/Prefabs/HouseButton.prefab
-- Assets/Prefabs/ProjectButton.prefab
-- Assets/Prefabs/LoadingBar.prefab
-- Assets/Prefabs/HouseDropdown.prefab
+- Assets/Prefabs/UI/Popup.prefab
+- Assets/Prefabs/UI/HouseButton.prefab
+- Assets/Prefabs/UI/ProjectButton.prefab
+- Assets/Prefabs/UI/LoadingBar.prefab
+- Assets/Prefabs/UI/HouseDropdown.prefab
 Dependencies: []
