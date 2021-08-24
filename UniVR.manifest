@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 3820915526
+CRC: 1187323483
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -12,11 +12,11 @@ AssetBundleManifest:
       Name: test/overview
       Dependencies: {}
     Info_3:
-      Name: assets/anim
-      Dependencies: {}
-    Info_4:
       Name: test/s101
       Dependencies: {}
-    Info_5:
+    Info_4:
       Name: assets/ui
+      Dependencies: {}
+    Info_5:
+      Name: assets/anim
       Dependencies: {}
