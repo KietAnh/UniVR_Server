@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1628437240
+CRC: 2748042148
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 475467ea6a964204463b8c240bad0f4e
+    Hash: 212c0ac5a7a6f78db20df6afa9122f1f
   TypeTreeHash:
     serializedVersion: 2
-    Hash: fc4cd13889d67e67482c8497ea39dcf3
+    Hash: 6487090f0044756118b3279475d2c388
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -36,11 +36,15 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: bf7cd6dc44d7ea84c84a79327f6af2bf, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 2a4db7a114972834c8e4117be1d82ba3, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 09c3f73787dc32b46ada1ad64f85f675, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 0d0b652f32a2cc243917e4028fa0f046, type: 3}
 - Class: 114
@@ -60,6 +64,7 @@ ClassTypes:
 SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Prefabs/UI/Popup.prefab
+- Assets/Prefabs/ViewOption.prefab
 - Assets/Prefabs/UI/HouseButton.prefab
 - Assets/Prefabs/UI/ProjectButton.prefab
 - Assets/Prefabs/UI/LoadingBar.prefab
