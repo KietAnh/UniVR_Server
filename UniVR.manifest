@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 1461199961
+CRC: 2101445953
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -20,4 +20,7 @@ AssetBundleManifest:
       Dependencies: {}
     Info_5:
       Name: assets/anim
+      Dependencies: {}
+    Info_6:
+      Name: assets/sprite
       Dependencies: {}
