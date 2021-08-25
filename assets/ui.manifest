@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1940063662
+CRC: 2390936818
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ca994a597306afd966e26e1e5eea9ee9
+    Hash: 511e2c1e893275dc1acb63a1956313b0
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 9f93be28173d26dbb69ed0e72da827f3
+    Hash: 85d7315a8c15dd77f6b38f444b90bd66
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -63,6 +63,7 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
+- Assets/Prefabs/UI/OptionButton.prefab
 - Assets/Prefabs/UI/Popup.prefab
 - Assets/Prefabs/UI/ViewOption.prefab
 - Assets/Prefabs/UI/HouseButton.prefab
