@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1609851444
+CRC: 1307474257
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e8b06d6fc51c636c193ed73c5ae5ff8d
+    Hash: 1c3034fee2310d94f40d78355c9d9091
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 5f4822f6bd5d9fcb8e38bb347dd14443
+    Hash: 14dd11e74912e951c532db7601bdfd8f
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -34,9 +34,13 @@ ClassTypes:
 - Class: 108
   Script: {instanceID: 0}
 - Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: b8e94c8a106e05b4895c3942aef4dd6b, type: 3}
 - Class: 114
@@ -55,6 +59,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: e86278e1c74a91346bd8112585bffa5f, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 3926b8e68b607ab4e8172aeedb7976e2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a623790ff0f6c8544a30dee008d1cdcf, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128
@@ -62,6 +68,8 @@ ClassTypes:
 - Class: 157
   Script: {instanceID: 0}
 - Class: 196
+  Script: {instanceID: 0}
+- Class: 213
   Script: {instanceID: 0}
 - Class: 222
   Script: {instanceID: 0}
@@ -72,4 +80,5 @@ ClassTypes:
 SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Scenes/Project Test.unity
-Dependencies: []
+Dependencies:
+- E:/hfs/UniVR/assets/ui

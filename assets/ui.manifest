@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2843746269
+CRC: 811691654
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 7a7bf1a48cdf28926edecef54392f72c
+    Hash: 3cb3c1e026cb6f663c22f2de99511ab9
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 37044cf484ff0be2f6518e5186433e4d
+    Hash: 93682446721a3c7c78a4b666bdf4e257
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -41,6 +41,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 09c3f73787dc32b46ada1ad64f85f675, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 8550ebd965efd7748a915819fed76e80, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a623790ff0f6c8544a30dee008d1cdcf, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128
@@ -58,5 +60,6 @@ Assets:
 - Assets/Prefabs/UI/ViewOption.prefab
 - Assets/Prefabs/UI/HouseButton.prefab
 - Assets/Prefabs/UI/ProjectButton.prefab
+- Assets/Prefabs/UI/BackButton.prefab
 - Assets/Prefabs/UI/LoadingBar.prefab
 Dependencies: []
