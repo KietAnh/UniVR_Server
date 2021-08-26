@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2212088894
+CRC: 3291064535
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: bff23491b6c8fca0d280cb8f2de4db67
+    Hash: 9c80c59df6a861b5d9148f8c88ac749e
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 02dfa6ebe90539f737ec1c2697e8e8ce
+    Hash: d51d8517a02c1f16c4feef134a40b809
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -71,6 +71,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 96da7c37fb3257f45b8f4c2b602f74f1, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 172515602e62fb746b5d573b38a5fe58, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b8e94c8a106e05b4895c3942aef4dd6b, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128
@@ -93,6 +95,6 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Scenes/Project CitySG_Demo_01.unity
+- Assets/Scenes/Project CitySG.unity
 Dependencies:
 - E:/hfs/UniVR/assets/ui

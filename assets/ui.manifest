@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2390936818
+CRC: 1273415101
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 511e2c1e893275dc1acb63a1956313b0
+    Hash: 7685bcae480fb6c835f03cedb532d690
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 85d7315a8c15dd77f6b38f444b90bd66
+    Hash: 37044cf484ff0be2f6518e5186433e4d
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -18,8 +18,6 @@ ClassTypes:
 - Class: 48
   Script: {instanceID: 0}
 - Class: 114
-  Script: {fileID: 11500000, guid: 9085046f02f69544eb97fd06b6048fe2, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
@@ -27,8 +25,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 505bbe53cada6cb4c80d34ed11ed0d76, type: 3}
 - Class: 114
@@ -40,15 +36,9 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 2a4db7a114972834c8e4117be1d82ba3, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 09c3f73787dc32b46ada1ad64f85f675, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 0d0b652f32a2cc243917e4028fa0f046, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 1aa08ab6e0800fa44ae55d278d1423e3, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 8550ebd965efd7748a915819fed76e80, type: 3}
 - Class: 115
@@ -69,5 +59,4 @@ Assets:
 - Assets/Prefabs/UI/HouseButton.prefab
 - Assets/Prefabs/UI/ProjectButton.prefab
 - Assets/Prefabs/UI/LoadingBar.prefab
-- Assets/Prefabs/UI/HouseDropdown.prefab
 Dependencies: []
