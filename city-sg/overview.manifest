@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1541952389
+CRC: 1786715930
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 948686f7ace901a31272c0f56451501c
+    Hash: 3576c09732adc6fbba082b2a34941fb3
   TypeTreeHash:
     serializedVersion: 2
-    Hash: b9d8cc2fe6e162981163c429cc17f583
+    Hash: 87a1dcccbac7cec6d142a09d7566e93a
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -31,24 +31,16 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 81
   Script: {instanceID: 0}
-- Class: 89
-  Script: {instanceID: 0}
 - Class: 104
   Script: {instanceID: 0}
 - Class: 108
   Script: {instanceID: 0}
-- Class: 114
-  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 6e48067c9835f154d8a98ee322b35426, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: a79441f348de89743a2939f4d699eac1, type: 3}
 - Class: 114
@@ -60,15 +52,9 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 97c23e3b12dc18c42a140437e53d3951, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: bf7cd6dc44d7ea84c84a79327f6af2bf, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 09c3f73787dc32b46ada1ad64f85f675, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
 - Class: 114
@@ -79,15 +65,9 @@ ClassTypes:
   Script: {fileID: 11500000, guid: b8e94c8a106e05b4895c3942aef4dd6b, type: 3}
 - Class: 115
   Script: {instanceID: 0}
-- Class: 128
-  Script: {instanceID: 0}
 - Class: 157
   Script: {instanceID: 0}
 - Class: 196
-  Script: {instanceID: 0}
-- Class: 213
-  Script: {instanceID: 0}
-- Class: 222
   Script: {instanceID: 0}
 - Class: 223
   Script: {instanceID: 0}
@@ -96,5 +76,4 @@ ClassTypes:
 SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Scenes/Project CitySG.unity
-Dependencies:
-- E:/hfs/UniVR/assets/ui
+Dependencies: []

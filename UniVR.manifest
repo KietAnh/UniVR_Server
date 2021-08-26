@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 2505680625
+CRC: 3434029944
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -19,5 +19,4 @@ AssetBundleManifest:
       Dependencies: {}
     Info_5:
       Name: city-sg/overview
-      Dependencies:
-        Dependency_0: assets/ui
+      Dependencies: {}
