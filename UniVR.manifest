@@ -1,24 +1,24 @@
 ManifestFileVersion: 0
-CRC: 1883060832
+CRC: 3500179118
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
       Name: map
       Dependencies: {}
     Info_1:
-      Name: city-sg/overview
-      Dependencies:
-        Dependency_0: assets/ui
-    Info_2:
       Name: test/overview
       Dependencies:
         Dependency_0: assets/ui
-    Info_3:
-      Name: assets/anim
-      Dependencies: {}
-    Info_4:
+    Info_2:
       Name: test/s101
       Dependencies: {}
-    Info_5:
+    Info_3:
       Name: assets/ui
       Dependencies: {}
+    Info_4:
+      Name: assets/anim
+      Dependencies: {}
+    Info_5:
+      Name: city-sg/overview
+      Dependencies:
+        Dependency_0: assets/ui
